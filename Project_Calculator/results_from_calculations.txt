@@ -1,0 +1,12 @@
+Calculation: 18.0 and 18.0
+Addition: 36.0
+Subtraction: 0.0
+Multiplication: 324.0
+Division: 1.0
+--------------------
+Calculation: 18.0 and 0.0
+Addition: 18.0
+Subtraction: 18.0
+Multiplication: 0.0
+Division: NaN
+--------------------
